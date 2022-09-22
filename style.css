@@ -1,0 +1,66 @@
+body{
+    background-color: rgb(48, 46, 46);
+}
+.container{
+    width: 300px;
+    background-color: hsl(216, 26%, 15%);
+    color: #fff;
+    margin: 200px auto;
+    border-radius: 20px;
+    padding: 40px ;
+}
+
+
+.btn button{
+    border-radius: 100px;
+    height: 40px;
+    width: 40px;
+    border: none;
+    color: #fff;
+    background-color: hsl(216, 26%, 19%);
+
+
+}
+.submit button{
+    width:300px;
+    margin: 20px auto;
+    height: 40px ;
+    background-color: hsl(25, 97%, 53%);
+    border-radius: 40px;
+    border: none;
+    color: #fff;
+}
+.btn2 .btn button{
+    margin: 0px 40px;
+}
+.icon{
+    height: 40px;
+    width: 40px;
+    border-radius: 100px;
+    border: 1px;
+}
+.container2{
+    width: 300px;
+    background-color: hsl(216, 26%, 15%);
+    color: #fff;
+    margin: 200px auto;
+    border-radius: 20px;
+    padding: 40px;
+    text-align: center;
+    
+}
+.text{
+    margin: 10px auto;
+}
+.bg2 {
+    padding: 0px auto;
+    
+}
+.text{
+    color: orange;
+    border-radius: 70px;
+    justify-content: center;
+    background-color: hsl(218, 24%, 26%);
+    border: none;
+    height: 25px;
+}
